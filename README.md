@@ -1,6 +1,6 @@
 # Bike-Sales-Dashboard-Excel
 
-<img src="https://github.com/Joshua-K1234/Bike-Sales-Dashboard-Excel/blob/main/Dashboard.JPG" alt="Bike Sales Dashboard" width="(600/9)16" height="600"/>
+<img src="https://github.com/Joshua-K1234/Bike-Sales-Dashboard-Excel/blob/main/Dashboard.JPG" alt="Bike Sales Dashboard" width="(400/9)16" height="400"/>
 
 ## Overview
 This Excel project analyzes bike sales data using pivot tables and slicers to create an interactive dashboard. The dashboard helps visualize key trends based on customer demographics and sales patterns.
